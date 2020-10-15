@@ -1,2 +1,2 @@
-# c-20
-microsoft visual code studio first 
+# p5.play-boilerplate
+Boiler plate for p5.play
